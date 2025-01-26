@@ -9,6 +9,7 @@ Steps Involved
 - Copy the URI of the uploaded data file for reference in the manifest file.
  
 
+![image](https://github.com/user-attachments/assets/212cba33-d310-46ba-be7c-0e661bf16cbf)
 
 
 
